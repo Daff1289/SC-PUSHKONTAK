@@ -1,0 +1,40 @@
+{
+  "name": "kirbotz-whatsapp",
+  "version": "3.0.0",
+  "description": "Base By KirBotz WhatsApp",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "KirBotz WhatsApp",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "github:REZZ19GANZ/Baileys",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "latest",
+    "awesome-phonenumber": "latest",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "chalk": "^4.1.2",
+    "crypto": "^1.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "file-type": "^16.5.3",
+    "jimp": "^0.16.1",
+    "moment-timezone": "^0.5.34",
+    "miniget": "^4.2.2",
+    "m3u8stream": "^0.8.6",
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.7",
+    "node-webpmux": "^3.1.0",
+    "nodemailer": "latest",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "pino": "^7.0.5",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2",
+    "util": "^0.12.5",
+    "syntax-error": "*"
+  }
+}
